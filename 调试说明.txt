@@ -1,0 +1,20 @@
+这是单buffer，异步采集，自动重置buffer，测量每一次采集时间（包括采集间隔时间）的程序。
+
+1.地址对齐的解决方法
+位置：FiberopticServer--->点击ServerForm.cs，右键选择查看代码---->第22行
+源代码：public static short[] abc = new short[3];//用于凑出16字节地址对齐，取值为8*n-3(典型取值是1,3,5,7)
+
+
+2.修改数据存储条数
+位置：FiberopticServer--->点击ServerForm.cs，右键选择查看代码---->第30 31行
+源代码：int startTime = 10000;  //10000表示10000ms,第10s时开始采集
+   int endTime = 12000;    //12000表示12000ms，第12s时结束采集
+
+3.每条数据长度
+位置：FiberopticServer--->点击ServerForm.cs，右键选择查看代码---->第21行
+源代码：static uint buffernum = 10000;
+
+4.采样率修改
+位置：FiberopticServer--->点击ServerForm.cs，右键选择查看代码---->第37行
+源代码：byte scantlv = 1, samptvl = 1;
+两个数值改成一样的

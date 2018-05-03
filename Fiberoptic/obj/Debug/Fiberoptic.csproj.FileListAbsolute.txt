@@ -1,0 +1,3 @@
+I:\Fiberoptic\Fiberoptic\bin\Debug\FiberopticServer.exe.config
+I:\Fiberoptic\Fiberoptic\obj\Debug\FiberopticServer.exe
+I:\Fiberoptic\Fiberoptic\obj\Debug\FiberopticServer.pdb

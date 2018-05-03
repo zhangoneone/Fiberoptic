@@ -1,0 +1,239 @@
+E:\项目\光纤传感\Fiberoptic\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+E:\项目\光纤传感\Fiberoptic\FiberopticServer\obj\Debug\FiberopticServer.csprojResolveAssemblyReference.cache
+E:\项目\光纤传感\Fiberoptic\FiberopticServer\obj\Debug\FiberopticServer.Properties.Resources.resources
+E:\项目\光纤传感\Fiberoptic\FiberopticServer\obj\Debug\FiberopticServer.ServerForm.resources
+E:\项目\光纤传感\Fiberoptic\FiberopticServer\obj\Debug\FiberopticServer.csproj.GenerateResource.Cache
+E:\项目\光纤传感\Fiberoptic\FiberopticServer\bin\Debug\FiberopticServer.exe
+E:\项目\光纤传感\Fiberoptic\FiberopticServer\bin\Debug\FiberopticServer.pdb
+E:\项目\光纤传感\Fiberoptic\FiberopticServer\obj\Debug\FiberopticServer.exe
+E:\项目\光纤传感\Fiberoptic\FiberopticServer\obj\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\Fiberoptic\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+C:\Users\Administrator\Desktop\Fiberoptic\FiberopticServer\obj\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\Fiberoptic\FiberopticServer\obj\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\Fiberoptic\FiberopticServer\bin\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\Fiberoptic\FiberopticServer\bin\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\Fiberoptic\FiberopticServer\obj\Debug\FiberopticServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Fiberoptic\FiberopticServer\obj\Debug\FiberopticServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Fiberoptic\FiberopticServer\obj\Debug\FiberopticServer.ServerForm.resources
+C:\Users\Administrator\Desktop\Fiberoptic\FiberopticServer\obj\Debug\FiberopticServer.csproj.GenerateResource.Cache
+I:\大三上作业和资料\光纤采集\Fiberoptic\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+I:\大三上作业和资料\光纤采集\Fiberoptic\FiberopticServer\obj\Debug\FiberopticServer.exe
+I:\大三上作业和资料\光纤采集\Fiberoptic\FiberopticServer\obj\Debug\FiberopticServer.pdb
+I:\大三上作业和资料\光纤采集\Fiberoptic\FiberopticServer\bin\Debug\FiberopticServer.exe
+I:\大三上作业和资料\光纤采集\Fiberoptic\FiberopticServer\bin\Debug\FiberopticServer.pdb
+I:\大三上作业和资料\光纤采集\Fiberoptic\FiberopticServer\obj\Debug\FiberopticServer.csprojResolveAssemblyReference.cache
+I:\大三上作业和资料\光纤采集\Fiberoptic\FiberopticServer\obj\Debug\FiberopticServer.Properties.Resources.resources
+I:\大三上作业和资料\光纤采集\Fiberoptic\FiberopticServer\obj\Debug\FiberopticServer.ServerForm.resources
+I:\大三上作业和资料\光纤采集\Fiberoptic\FiberopticServer\obj\Debug\FiberopticServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Fiberopticxxxx\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+C:\Users\Administrator\Desktop\Fiberopticxxxx\FiberopticServer\obj\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\Fiberopticxxxx\FiberopticServer\obj\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\Fiberopticxxxx\FiberopticServer\bin\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\Fiberopticxxxx\FiberopticServer\bin\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\Fiberopticxxxx\FiberopticServer\obj\Debug\FiberopticServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Fiberopticxxxx\FiberopticServer\obj\Debug\FiberopticServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Fiberopticxxxx\FiberopticServer\obj\Debug\FiberopticServer.ServerForm.resources
+C:\Users\Administrator\Desktop\Fiberopticxxxx\FiberopticServer\obj\Debug\FiberopticServer.csproj.GenerateResource.Cache
+J:\Fiberopticxxxx\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+J:\Fiberopticxxxx\FiberopticServer\obj\Debug\FiberopticServer.exe
+J:\Fiberopticxxxx\FiberopticServer\obj\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\Fiberoptic1.0\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+C:\Users\Administrator\Desktop\Fiberoptic1.0\FiberopticServer\obj\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\Fiberoptic1.0\FiberopticServer\obj\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\Fiberoptic1.0\FiberopticServer\bin\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\Fiberoptic1.0\FiberopticServer\bin\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\Fiberoptic1.0\FiberopticServer\obj\Debug\FiberopticServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Fiberoptic1.0\FiberopticServer\obj\Debug\FiberopticServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Fiberoptic1.0\FiberopticServer\obj\Debug\FiberopticServer.ServerForm.resources
+C:\Users\Administrator\Desktop\Fiberoptic1.0\FiberopticServer\obj\Debug\FiberopticServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Fiberoptic2.0\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+C:\Users\Administrator\Desktop\Fiberoptic2.0\FiberopticServer\obj\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\Fiberoptic2.0\FiberopticServer\obj\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\Fiberoptic2.0\FiberopticServer\obj\Debug\FiberopticServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Fiberoptic2.0\FiberopticServer\obj\Debug\FiberopticServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Fiberoptic2.0\FiberopticServer\obj\Debug\FiberopticServer.ServerForm.resources
+C:\Users\Administrator\Desktop\Fiberoptic2.0\FiberopticServer\obj\Debug\FiberopticServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Fiberoptic2.0\FiberopticServer\bin\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\Fiberoptic2.0\FiberopticServer\bin\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\Fiberoptic5.0\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+C:\Users\Administrator\Desktop\Fiberoptic5.0\FiberopticServer\obj\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\Fiberoptic5.0\FiberopticServer\obj\Debug\FiberopticServer.pdb
+J:\Fiberoptic5.0\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+J:\Fiberoptic5.0\FiberopticServer\obj\Debug\FiberopticServer.exe
+J:\Fiberoptic5.0\FiberopticServer\obj\Debug\FiberopticServer.pdb
+J:\Fiberoptic5.0\FiberopticServer\obj\Debug\FiberopticServer.csprojResolveAssemblyReference.cache
+J:\Fiberoptic5.0\FiberopticServer\obj\Debug\FiberopticServer.Properties.Resources.resources
+J:\Fiberoptic5.0\FiberopticServer\obj\Debug\FiberopticServer.ServerForm.resources
+J:\Fiberoptic5.0\FiberopticServer\obj\Debug\FiberopticServer.csproj.GenerateResource.Cache
+J:\Fiberoptic5.0\FiberopticServer\bin\Debug\FiberopticServer.exe
+J:\Fiberoptic5.0\FiberopticServer\bin\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\Fiberoptic5.0\FiberopticServer\bin\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\Fiberoptic5.0\FiberopticServer\bin\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\Fiberoptic5.0\FiberopticServer\obj\Debug\FiberopticServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Fiberoptic5.0\FiberopticServer\obj\Debug\FiberopticServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Fiberoptic5.0\FiberopticServer\obj\Debug\FiberopticServer.ServerForm.resources
+C:\Users\Administrator\Desktop\Fiberoptic5.0\FiberopticServer\obj\Debug\FiberopticServer.csproj.GenerateResource.Cache
+J:\2 主机扫描程序设计\Fiberoptic5.0\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+J:\2 主机扫描程序设计\Fiberoptic5.0\FiberopticServer\obj\Debug\FiberopticServer.exe
+J:\2 主机扫描程序设计\Fiberoptic5.0\FiberopticServer\obj\Debug\FiberopticServer.pdb
+J:\2 主机扫描程序设计\Fiberoptic5.0 - 副本\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+J:\2 主机扫描程序设计\Fiberoptic5.0 - 副本\FiberopticServer\obj\Debug\FiberopticServer.exe
+J:\2 主机扫描程序设计\Fiberoptic5.0 - 副本\FiberopticServer\obj\Debug\FiberopticServer.pdb
+J:\2 主机扫描程序设计\Fiberoptic5.0 - 副本\FiberopticServer\bin\Debug\FiberopticServer.exe
+J:\2 主机扫描程序设计\Fiberoptic5.0 - 副本\FiberopticServer\bin\Debug\FiberopticServer.pdb
+J:\2 主机扫描程序设计\Fiberoptic5.0 - 副本\FiberopticServer\obj\Debug\FiberopticServer.csprojResolveAssemblyReference.cache
+J:\2 主机扫描程序设计\Fiberoptic5.0 - 副本\FiberopticServer\obj\Debug\FiberopticServer.Properties.Resources.resources
+J:\2 主机扫描程序设计\Fiberoptic5.0 - 副本\FiberopticServer\obj\Debug\FiberopticServer.ServerForm.resources
+J:\2 主机扫描程序设计\Fiberoptic5.0 - 副本\FiberopticServer\obj\Debug\FiberopticServer.csproj.GenerateResource.Cache
+J:\2 主机扫描程序设计\Fiberoptic6.0\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+J:\2 主机扫描程序设计\Fiberoptic6.0\FiberopticServer\obj\Debug\FiberopticServer.exe
+J:\2 主机扫描程序设计\Fiberoptic6.0\FiberopticServer\obj\Debug\FiberopticServer.pdb
+J:\2 主机扫描程序设计\Fiberoptic6.0\FiberopticServer\bin\Debug\FiberopticServer.exe
+J:\2 主机扫描程序设计\Fiberoptic6.0\FiberopticServer\bin\Debug\FiberopticServer.pdb
+J:\2 主机扫描程序设计\Fiberoptic6.0\FiberopticServer\obj\Debug\FiberopticServer.csprojResolveAssemblyReference.cache
+J:\2 主机扫描程序设计\Fiberoptic6.0\FiberopticServer\obj\Debug\FiberopticServer.Properties.Resources.resources
+J:\2 主机扫描程序设计\Fiberoptic6.0\FiberopticServer\obj\Debug\FiberopticServer.ServerForm.resources
+J:\2 主机扫描程序设计\Fiberoptic6.0\FiberopticServer\obj\Debug\FiberopticServer.csproj.GenerateResource.Cache
+J:\2 主机扫描程序设计\Fiberoptic7.0\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+J:\2 主机扫描程序设计\Fiberoptic7.0\FiberopticServer\obj\Debug\FiberopticServer.exe
+J:\2 主机扫描程序设计\Fiberoptic7.0\FiberopticServer\obj\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\Fiberoptic7.0\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+C:\Users\Administrator\Desktop\Fiberoptic7.0\FiberopticServer\obj\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\Fiberoptic7.0\FiberopticServer\obj\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\Fiberoptic7.0\FiberopticServer\bin\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\Fiberoptic7.0\FiberopticServer\bin\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\Fiberoptic7.0\FiberopticServer\obj\Debug\FiberopticServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Fiberoptic7.0\FiberopticServer\obj\Debug\FiberopticServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Fiberoptic7.0\FiberopticServer\obj\Debug\FiberopticServer.ServerForm.resources
+C:\Users\Administrator\Desktop\Fiberoptic7.0\FiberopticServer\obj\Debug\FiberopticServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\4.1成果\Fiberoptic7.0(通过版)\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+C:\Users\Administrator\Desktop\4.1成果\Fiberoptic7.0(通过版)\FiberopticServer\obj\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\4.1成果\Fiberoptic7.0(通过版)\FiberopticServer\obj\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\4.1成果\Fiberoptic7.0(通过版)\FiberopticServer\obj\Debug\FiberopticServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\4.1成果\Fiberoptic7.0(通过版)\FiberopticServer\obj\Debug\FiberopticServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\4.1成果\Fiberoptic7.0(通过版)\FiberopticServer\obj\Debug\FiberopticServer.ServerForm.resources
+C:\Users\Administrator\Desktop\4.1成果\Fiberoptic7.0(通过版)\FiberopticServer\obj\Debug\FiberopticServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\4.1成果\Fiberoptic7.0(通过版)\FiberopticServer\bin\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\4.1成果\Fiberoptic7.0(通过版)\FiberopticServer\bin\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(0异常版)\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(0异常版)\FiberopticServer\obj\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(0异常版)\FiberopticServer\obj\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(0异常版)\FiberopticServer\bin\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(0异常版)\FiberopticServer\bin\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(0异常版)\FiberopticServer\obj\Debug\FiberopticServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(0异常版)\FiberopticServer\obj\Debug\FiberopticServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(0异常版)\FiberopticServer\obj\Debug\FiberopticServer.ServerForm.resources
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(0异常版)\FiberopticServer\obj\Debug\FiberopticServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最新进度carry on)\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最新进度carry on)\FiberopticServer\obj\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最新进度carry on)\FiberopticServer\obj\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最新进度carry on)\FiberopticServer\bin\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最新进度carry on)\FiberopticServer\bin\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最新进度carry on)\FiberopticServer\obj\Debug\FiberopticServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最新进度carry on)\FiberopticServer\obj\Debug\FiberopticServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最新进度carry on)\FiberopticServer\obj\Debug\FiberopticServer.ServerForm.resources
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最新进度carry on)\FiberopticServer\obj\Debug\FiberopticServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最最新进度)\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最最新进度)\FiberopticServer\obj\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最最新进度)\FiberopticServer\obj\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最最新进度)\FiberopticServer\bin\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最最新进度)\FiberopticServer\bin\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最最新进度)\FiberopticServer\obj\Debug\FiberopticServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最最新进度)\FiberopticServer\obj\Debug\FiberopticServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最最新进度)\FiberopticServer\obj\Debug\FiberopticServer.ServerForm.resources
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最最新进度)\FiberopticServer\obj\Debug\FiberopticServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最最最新进度)\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最最最新进度)\FiberopticServer\obj\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最最最新进度)\FiberopticServer\obj\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最最最新进度)\FiberopticServer\bin\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最最最新进度)\FiberopticServer\bin\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最最最新进度)\FiberopticServer\obj\Debug\FiberopticServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最最最新进度)\FiberopticServer\obj\Debug\FiberopticServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最最最新进度)\FiberopticServer\obj\Debug\FiberopticServer.ServerForm.resources
+C:\Users\Administrator\Desktop\4.12成果\Fiberoptic7.0(最最最新进度)\FiberopticServer\obj\Debug\FiberopticServer.csproj.GenerateResource.Cache
+J:\光纤采集程序\4.12成果\Fiberoptic7.0(最最最新进度)晚上的\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+J:\光纤采集程序\4.12成果\Fiberoptic7.0(最最最新进度)晚上的\FiberopticServer\obj\Debug\FiberopticServer.exe
+J:\光纤采集程序\4.12成果\Fiberoptic7.0(最最最新进度)晚上的\FiberopticServer\obj\Debug\FiberopticServer.pdb
+J:\光纤采集程序\4.12成果\Fiberoptic7.0(最最最新进度)晚上的\FiberopticServer\bin\Debug\FiberopticServer.exe
+J:\光纤采集程序\4.12成果\Fiberoptic7.0(最最最新进度)晚上的\FiberopticServer\bin\Debug\FiberopticServer.pdb
+J:\光纤采集程序\4.12成果\Fiberoptic7.0(最最最新进度)晚上的\FiberopticServer\obj\Debug\FiberopticServer.csprojResolveAssemblyReference.cache
+J:\光纤采集程序\4.12成果\Fiberoptic7.0(最最最新进度)晚上的\FiberopticServer\obj\Debug\FiberopticServer.Properties.Resources.resources
+J:\光纤采集程序\4.12成果\Fiberoptic7.0(最最最新进度)晚上的\FiberopticServer\obj\Debug\FiberopticServer.ServerForm.resources
+J:\光纤采集程序\4.12成果\Fiberoptic7.0(最最最新进度)晚上的\FiberopticServer\obj\Debug\FiberopticServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Fiberoptic7.0(最最最新进度)晚上的\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+C:\Users\Administrator\Desktop\Fiberoptic7.0(最最最新进度)晚上的\FiberopticServer\obj\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\Fiberoptic7.0(最最最新进度)晚上的\FiberopticServer\obj\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\Fiberoptic7.0(最最最新进度)晚上的\FiberopticServer\bin\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\Fiberoptic7.0(最最最新进度)晚上的\FiberopticServer\bin\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\Fiberoptic7.0(最最最新进度)晚上的\FiberopticServer\obj\Debug\FiberopticServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Fiberoptic7.0(最最最新进度)晚上的\FiberopticServer\obj\Debug\FiberopticServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Fiberoptic7.0(最最最新进度)晚上的\FiberopticServer\obj\Debug\FiberopticServer.ServerForm.resources
+C:\Users\Administrator\Desktop\Fiberoptic7.0(最最最新进度)晚上的\FiberopticServer\obj\Debug\FiberopticServer.csproj.GenerateResource.Cache
+J:\光纤采集程序\4.12成果\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+J:\光纤采集程序\4.12成果\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\obj\Debug\FiberopticServer.exe
+J:\光纤采集程序\4.12成果\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\obj\Debug\FiberopticServer.pdb
+J:\光纤采集程序\4.12成果\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\bin\Debug\FiberopticServer.exe
+J:\光纤采集程序\4.12成果\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\bin\Debug\FiberopticServer.pdb
+J:\光纤采集程序\4.12成果\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\obj\Debug\FiberopticServer.csprojResolveAssemblyReference.cache
+J:\光纤采集程序\4.12成果\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\obj\Debug\FiberopticServer.Properties.Resources.resources
+J:\光纤采集程序\4.12成果\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\obj\Debug\FiberopticServer.ServerForm.resources
+J:\光纤采集程序\4.12成果\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\obj\Debug\FiberopticServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+C:\Users\Administrator\Desktop\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\bin\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\bin\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\obj\Debug\FiberopticServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\obj\Debug\FiberopticServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\obj\Debug\FiberopticServer.ServerForm.resources
+C:\Users\Administrator\Desktop\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\obj\Debug\FiberopticServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\obj\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\obj\Debug\FiberopticServer.pdb
+H:\光纤采集程序\4.15\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+H:\光纤采集程序\4.15\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\obj\Debug\FiberopticServer.exe
+H:\光纤采集程序\4.15\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\obj\Debug\FiberopticServer.pdb
+H:\光纤采集程序\4.15\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\bin\Debug\FiberopticServer.exe
+H:\光纤采集程序\4.15\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\bin\Debug\FiberopticServer.pdb
+H:\光纤采集程序\4.15\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\obj\Debug\FiberopticServer.csprojResolveAssemblyReference.cache
+H:\光纤采集程序\4.15\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\obj\Debug\FiberopticServer.Properties.Resources.resources
+H:\光纤采集程序\4.15\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\obj\Debug\FiberopticServer.ServerForm.resources
+H:\光纤采集程序\4.15\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\obj\Debug\FiberopticServer.csproj.GenerateResource.Cache
+F:\Fibre\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+F:\Fibre\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\obj\Debug\FiberopticServer.exe
+F:\Fibre\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\obj\Debug\FiberopticServer.pdb
+F:\Fibre\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\bin\Debug\FiberopticServer.exe
+F:\Fibre\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\bin\Debug\FiberopticServer.pdb
+F:\Fibre\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\obj\Debug\FiberopticServer.csprojResolveAssemblyReference.cache
+F:\Fibre\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\obj\Debug\FiberopticServer.Properties.Resources.resources
+F:\Fibre\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\obj\Debug\FiberopticServer.ServerForm.resources
+F:\Fibre\Fiberoptic7.0(最最最新进度)晚上的最新\FiberopticServer\obj\Debug\FiberopticServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Fiberoptic7.0(稳定灵敏数据采集)\FiberopticServer\obj\Debug\FiberopticServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Fiberoptic7.0(稳定灵敏数据采集)\FiberopticServer\obj\Debug\FiberopticServer.ServerForm.resources
+C:\Users\Administrator\Desktop\Fiberoptic7.0(稳定灵敏数据采集)\FiberopticServer\obj\Debug\FiberopticServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Fiberoptic7.0(稳定灵敏数据采集)\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+C:\Users\Administrator\Desktop\Fiberoptic7.0(稳定灵敏数据采集)\FiberopticServer\bin\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\Fiberoptic7.0(稳定灵敏数据采集)\FiberopticServer\bin\Debug\FiberopticServer.pdb
+C:\Users\Administrator\Desktop\Fiberoptic7.0(稳定灵敏数据采集)\FiberopticServer\obj\Debug\FiberopticServer.exe
+C:\Users\Administrator\Desktop\Fiberoptic7.0(稳定灵敏数据采集)\FiberopticServer\obj\Debug\FiberopticServer.pdb
+F:\Softwares\Fiber Vibration Sensing\Fiberoptic7.0(稳定数据采集)\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+F:\Softwares\Fiber Vibration Sensing\Fiberoptic7.0(稳定数据采集)\FiberopticServer\obj\Debug\FiberopticServer.exe
+F:\Softwares\Fiber Vibration Sensing\Fiberoptic7.0(稳定数据采集)\FiberopticServer\obj\Debug\FiberopticServer.pdb
+D:\Softwares\光纤振动数据采集软件\Fiberoptic7.0(稳定数据采集)\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+D:\Softwares\光纤振动数据采集软件\Fiberoptic7.0(稳定数据采集)\FiberopticServer\obj\Debug\FiberopticServer.exe
+D:\Softwares\光纤振动数据采集软件\Fiberoptic7.0(稳定数据采集)\FiberopticServer\obj\Debug\FiberopticServer.pdb
+H:\软件\光纤振动传感软件（带地图+数据采集）\Fiberoptic7.0(稳定数据采集)\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+H:\软件\光纤振动传感软件（带地图+数据采集）\Fiberoptic7.0(稳定数据采集)\FiberopticServer\obj\Debug\FiberopticServer.exe
+H:\软件\光纤振动传感软件（带地图+数据采集）\Fiberoptic7.0(稳定数据采集)\FiberopticServer\obj\Debug\FiberopticServer.pdb
+H:\软件\光纤振动传感软件（带地图+数据采集）\Fiberoptic7.0(稳定数据采集)\FiberopticServer\bin\Debug\FiberopticServer.exe
+H:\软件\光纤振动传感软件（带地图+数据采集）\Fiberoptic7.0(稳定数据采集)\FiberopticServer\bin\Debug\FiberopticServer.pdb
+H:\软件\光纤振动传感软件（带地图+数据采集）\Fiberoptic7.0(稳定数据采集)\FiberopticServer\obj\Debug\FiberopticServer.Properties.Resources.resources
+H:\软件\光纤振动传感软件（带地图+数据采集）\Fiberoptic7.0(稳定数据采集)\FiberopticServer\obj\Debug\FiberopticServer.ServerForm.resources
+H:\软件\光纤振动传感软件（带地图+数据采集）\Fiberoptic7.0(稳定数据采集)\FiberopticServer\obj\Debug\FiberopticServer.csproj.GenerateResource.Cache
+H:\软件\光纤振动传感软件（带地图+数据采集）\Fiberoptic7.0(稳定数据采集)\FiberopticServer\obj\Debug\FiberopticServer.csprojResolveAssemblyReference.cache
+H:\软件\光纤振动传感软件（带地图+数据采集）\Fiberoptic新版本\FiberopticServer\bin\Debug\FiberopticServer.exe.config
+H:\软件\光纤振动传感软件（带地图+数据采集）\Fiberoptic新版本\FiberopticServer\obj\Debug\FiberopticServer.exe
+H:\软件\光纤振动传感软件（带地图+数据采集）\Fiberoptic新版本\FiberopticServer\obj\Debug\FiberopticServer.pdb
+H:\软件\光纤振动传感软件（带地图+数据采集）\Fiberoptic新版本\FiberopticServer\bin\Debug\FiberopticServer.exe
+H:\软件\光纤振动传感软件（带地图+数据采集）\Fiberoptic新版本\FiberopticServer\bin\Debug\FiberopticServer.pdb
+H:\软件\光纤振动传感软件（带地图+数据采集）\Fiberoptic新版本\FiberopticServer\obj\Debug\FiberopticServer.csprojResolveAssemblyReference.cache
+H:\软件\光纤振动传感软件（带地图+数据采集）\Fiberoptic新版本\FiberopticServer\obj\Debug\FiberopticServer.Properties.Resources.resources
+H:\软件\光纤振动传感软件（带地图+数据采集）\Fiberoptic新版本\FiberopticServer\obj\Debug\FiberopticServer.ServerForm.resources
+H:\软件\光纤振动传感软件（带地图+数据采集）\Fiberoptic新版本\FiberopticServer\obj\Debug\FiberopticServer.csproj.GenerateResource.Cache
