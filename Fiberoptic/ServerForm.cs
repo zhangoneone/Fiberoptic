@@ -18,8 +18,8 @@ namespace FiberopticServer
     public partial class ServerForm : Form
     {
         public int ret;
-        static uint buffernum = 8000;
-        public static short[] abc = new short[5];//用于凑出16字节地址对齐，取值为8*n-3(1,3,5,7),调试时要加上，运行exe时去掉这句就ok
+        static uint buffernum = 4000;
+        public static short[] abc = new short[7];//用于凑出16字节地址对齐，取值为8*n-3(1,3,5,7),调试时要加上，运行exe时去掉这句就ok
         public static short[] data_buffer = new short[buffernum]; //接收到板卡的数据数组
         int test, test1, test2, test3, test4, test5;        //测试buff更新的数据
         List< short[]> storeData = new List< short[]>();
@@ -35,7 +35,7 @@ namespace FiberopticServer
         public uint access_cnt = 0, StartPos = 0;
         private int m_dev;
         byte scantlv = 1, samptvl = 1;
-        int wrtdata = 200, wrtpoint = 200;
+        int wrtdata = 200 , wrtpoint = 200;
         CallbackDelegate m_del;
         string s = "采集方式：异步单buffer\r\n数据个数:" + buffernum + "\r\n" + "统计数据情况\r\n";
         long time = 0;
@@ -128,22 +128,6 @@ namespace FiberopticServer
                 DataList.Text += "buffer地址未对齐，请检查程序!\r\n";
             }
         }//窗口加载事件
-        private void StartBand_Click(object sender, EventArgs e)//板卡注册
-        {
-            m_dev = 0;
-            uint sdramsize=0;
-            m_dev = WD_DASK.WD_Register_Card(WD_DASK.PCI_9842, 0);
-            if (m_dev  < 0)
-            {
-                MessageBox.Show("注册失败!"+m_dev.ToString());
-            }
-            else 
-            {
-     //           MessageBox.Show("WD_Register_Card Success!");
-                WD_DASK.WD_Get_SDRAMSize((ushort)m_dev,out sdramsize);
-                DataList.Text += "注册成功!板载SDRAM大小是:"+sdramsize+"MB\r\n";
-            }
-        }
         public int basicconfig()//基本配置函数体
         {
             ret = 0;
@@ -199,14 +183,6 @@ namespace FiberopticServer
             }
             return 0;
         }
-        private void StartCollect_Click(object sender, EventArgs e)//开线程方式采集
-        {
-            Collectdata = new Thread(CollectionDatasyn);//异步采集
-            Collectdata.Priority = ThreadPriority.Highest;
-            Collectdata.Start();
-            DataList.Text += "正在采集数据...\r\n";
-
-        }
         public void CollectionDatasyn()//异步采集函数（0异常）
         {
             int noupdata=0;
@@ -259,27 +235,6 @@ namespace FiberopticServer
                      stopped = 0;//置0
                 }
             } while (true);
-        }
-        private void button1_Click_1(object sender, EventArgs e)//基本配置开关
-        {
-            int ret = 0;
-            ret = basicconfig();
-            if (ret == 0)
-            {
-                DataList.Text += "基本配置成功！\r\n";
-            }
-            else
-            {
-                DataList.Text += "基本配置失败！\r\n";
-            }
-            
-        }
-        private void button2_Click(object sender, EventArgs e)//开启线程执行修正
-        {
-            Amend = new Thread(Amend_Handlex);
-            Amend.Priority = ThreadPriority.Highest;
-            Amend.Start();
-            DataList.Text += "数据修正中...\r\n";
         }
         private void Amend_Handlex()//修正函数体(无公式)
         {
@@ -354,6 +309,8 @@ namespace FiberopticServer
         }
         private void toolStripMenuItem2_Click(object sender, EventArgs e)//启动板卡
         {
+            importdll.CollectionSession cs = new importdll.CollectionSession();
+            cs = importdll.proxy(ref cs);
             m_dev = 0;
             uint sdramsize = 0;
             m_dev = WD_DASK.WD_Register_Card(WD_DASK.PCI_9842, 0);
@@ -495,5 +452,21 @@ namespace FiberopticServer
         {
 
         }
+
+        private void StartBand_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void StartCollect_Click(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }
